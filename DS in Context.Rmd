@@ -1,0 +1,26 @@
+---
+title: "DS in Context"
+author: "Eddie Xu"
+date: "2023-02-20"
+output: html_document
+---
+
+## Data Science in Context - FAssets library
+
+FAssets is a R package written to explore and analyze datasets of financial assets. 
+
+## Load Package
+```{r}
+library(fAssets)
+
+```
+
+## Including Plots
+
+
+
+```{r pressure, echo=FALSE}
+
+```
+
+
